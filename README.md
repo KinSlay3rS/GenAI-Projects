@@ -47,7 +47,7 @@ where applicable.
 **Tech stack:**
 `Python` `HuggingFace Transformers` `DistilBERT` `Gemini API` `Gradio` `Sentiment140`
 
-🔗 [View Project](./Sentiment-Analysis-DistilBERT) · 
+🔗 [View Project](./tweet-tone-classifier) · 
 🤗 [Model](https://huggingface.co/KinSlay3rs/tweet-tone-classifier) · 
 🚀 [Live Demo](https://huggingface.co/spaces/KinSlay3rs/tweet-tone-classifier)
 
