@@ -1,0 +1,10 @@
+torch
+transformers
+huggingface_hub
+langchain
+langchain-gemini-core
+gradio
+python-dotenv
+
+# for evaluation
+scikit-learn
